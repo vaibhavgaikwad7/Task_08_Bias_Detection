@@ -1,0 +1,4 @@
+results/*
+!results/.keep
+data/*
+!data/anonymized_stats.csv

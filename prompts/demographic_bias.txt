@@ -1,0 +1,3 @@
+Players: A (Sophomore), B (Freshman), C (Junior), D (Senior), E (Senior)
+
+Using both the stats and the class year information, which player appears the most overlooked or disadvantaged, and why?
